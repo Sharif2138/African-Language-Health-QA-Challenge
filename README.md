@@ -159,4 +159,4 @@ Output files: `train_clean.csv`, `val_clean.csv`, `test_clean.csv`
 
 ## Author
 
-**Sharif** — Machine Learning Techniques I, Final Project
+**Sharif** — Machine Learning Techniques I, Final Project
